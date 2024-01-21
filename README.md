@@ -1,4 +1,4 @@
-# Email Sender Prediction using Enron Email Dataset
+# EmailMind: Email Sender Prediction using Enron Email Dataset
 
 ## 1. Overview
 
