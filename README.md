@@ -38,7 +38,7 @@ The results of the model comparison are summarized in Table 1:
 
 ![](Results.jpg)
 
-In-depth performance evaluation involved examining the confusion matrix, revealing valuable insights into the model's predictions, particularly when dealing with the top 15 email senders. The Bidirectional GRU network demonstrated a robust accuracy of 88%, achieving correctness in predictions for at least 88% of the cases.
+In-depth performance evaluation involved examining the confusion matrix, revealing valuable insights into the model's predictions, particularly when dealing with the top 15 email senders. The Bidirectional GRU network demonstrated a robust accuracy of 89%, achieving correctness in predictions for at least 89% of the cases.
 
 ## 6. Code Execution
 
